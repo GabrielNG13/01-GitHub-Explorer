@@ -1,0 +1,11 @@
+{
+  "name": "01-GitHub-Explorer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "GabrielNG13 <gabrielnunesmghirardelli@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
