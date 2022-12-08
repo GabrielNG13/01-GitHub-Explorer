@@ -1,3 +1,5 @@
+import './styles/global.css';
+
 export function App() {
     //throw new Error('EITA BIXO DEU ERRO!!');
 
