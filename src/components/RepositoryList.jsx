@@ -13,8 +13,6 @@ export function RepositoryList () {
             <ul>
                 <RepositoryItem repository = {repository}/>
                 <RepositoryItem/>
-                <RepositoryItem/>
-                <RepositoryItem/>
             </ul>
         </section>
     );
